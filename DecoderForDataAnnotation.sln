@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decoder", "Decoder\Decoder.csproj", "{E9600C72-668D-4712-BA38-54A8E89D084D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decoder", "Decoder.csproj", "{CA3F7A8E-0475-4CA8-B345-C8F61D719F1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9600C72-668D-4712-BA38-54A8E89D084D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9600C72-668D-4712-BA38-54A8E89D084D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9600C72-668D-4712-BA38-54A8E89D084D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9600C72-668D-4712-BA38-54A8E89D084D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA3F7A8E-0475-4CA8-B345-C8F61D719F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA3F7A8E-0475-4CA8-B345-C8F61D719F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA3F7A8E-0475-4CA8-B345-C8F61D719F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA3F7A8E-0475-4CA8-B345-C8F61D719F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
